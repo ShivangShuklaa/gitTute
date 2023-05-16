@@ -1,0 +1,10 @@
+git status   = for check status ki ye git repository h ya ni
+git init     = for initialized git (ab ye git repository h but iske andar ki sari file git p commit nahi hui h)
+git add --a  = for all file Staging (isse sari files stage p chali jayengi)
+git commit -m "initialized commit"  = commit karne k liye (isse staging ki gayi sari files commit ho jayengi)
+git log      = ye dikhayega ki kon si file modify ki gayi h jo staging se ho kr commit nahi hui
+
+MANA DO FILE MODIFIED HUI H OR UNME SE EK KO HI COMMIT KARNA HO
+
+git add filename.extension  = isse sirf wahi file hi stage p jayegi
+rm -rf .git = isse git repository repository nahi rahegi
